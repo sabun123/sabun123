@@ -4,7 +4,9 @@
 - I'm currently working in a startup in Singapore :singapore:
 - Enjoying React web and mobile development! 🌐 
 - Having fun trying to master Blender :book:
-- Got to develop the Beanstox app (Kevin O'Leary) 📱 
+- Built and developed Principal Asset Management Thailand's mobile app 📱
+- Got to upgrade and develop the Beanstox app (Kevin O'Leary) 📱 
+- Architected, developed and helped deploy the Franklin Templeton mobile app 📱📈
 
 <br />
 
