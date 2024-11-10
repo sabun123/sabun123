@@ -16,14 +16,14 @@
 <br />
 
 ### My socials:
-[<img align="left" alt="yusuf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yusuf | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/briefcase.svg" />][portfolio]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/bar-chart.svg" />][kaggle]
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5)][linkedin]
+[![Portfolio](https://img.shields.io/badge/Portfolio-85d996)][portfolio]
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF)][kaggle]
+[![Website](https://img.shields.io/badge/Website-7f7f7f)][website]
+
 
 [linkedin]: https://www.linkedin.com/in/yusuf-ismail-bin-shukor/
-[youtube]: https://www.youtube.com/user/PenguinRecordings
 [website]: https://techpromad.wordpress.com/
 [portfolio]: https://sabun123.github.io/yusuf-website/
 [kaggle]: https://www.kaggle.com/yusufismailshukor
