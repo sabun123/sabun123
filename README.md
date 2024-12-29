@@ -25,6 +25,6 @@ Yusuf Ismail bin Shukor
 
 
 [linkedin]: https://www.linkedin.com/in/yusuf-ismail-bin-shukor/
-[website]: https://techpromad.wordpress.com/
+[website]: https://yusuf-ismail-shukor.com/
 [portfolio]: https://sabun123.github.io/yusuf-website/
 [kaggle]: https://www.kaggle.com/yusufismailshukor
