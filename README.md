@@ -16,6 +16,13 @@ Yusuf Ismail bin Shukor
 
 <br />
 
+### Language Learning Web Apps
+Here are some **FREE** sites I've developed to help language learners. Start studying and self-testing today!
+- [JLPT N5 Kanji learning for English speakers](https://sabun123.github.io/jlpt-n5-kanji/) 📖🇯🇵
+- [JLPT N5 Kana learning for En/My/Vn speakers](https://sabun123.github.io/jlpt-n5-kana/) 📖🇯🇵
+- [ALPT 1 Arabic learning for English speakers](https://sabun123.github.io/alpt-1-arabic/) 📖🇸🇦
+- [HSK 1 Mandarin learning for English speakers](https://sabun123.github.io/hsk-1-mandarin/) 📖🇨🇳
+
 ### My socials:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5)][linkedin]
