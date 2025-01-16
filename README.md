@@ -13,7 +13,6 @@ Yusuf Ismail bin Shukor
 - Architected, developed and helped deploy the Franklin Templeton mobile app 📱📈
 - Architected, developed and fully deployed the Partner Care mobile app for Homage 📱🏥
 - Led refactoring and migration to React Native for the Care Pro mobile app for Homage 📱🧑‍⚕️
-
 <br />
 
 ### Language Learning Web Apps
@@ -22,6 +21,7 @@ Here are some **FREE** sites I've developed to help language learners. Start stu
 - [JLPT N5 Kana learning for En/My/Vn speakers](https://sabun123.github.io/jlpt-n5-kana/) 📖🇯🇵
 - [ALPT 1 Arabic learning for English speakers](https://sabun123.github.io/alpt-1-arabic/) 📖🇸🇦
 - [HSK 1 Mandarin learning for English speakers](https://sabun123.github.io/hsk-1-mandarin/) 📖🇨🇳
+- [CEFR A1 English learning for Malay, Vietnamese, Mandarin, and Japanese speakers](https://sabun123.github.io/cefr-a1-english/) 📖🇲🇾🇻🇳🇨🇳🇯🇵
 
 ### My socials:
 
