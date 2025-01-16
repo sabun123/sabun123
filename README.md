@@ -17,11 +17,13 @@ Yusuf Ismail bin Shukor
 
 ### Language Learning Web Apps
 Here are some **FREE** sites I've developed to help language learners. Start studying and self-testing today!
-- [JLPT N5 Kanji learning for English speakers](https://sabun123.github.io/jlpt-n5-kanji/) 📖🇯🇵
 - [JLPT N5 Kana learning for En/My/Vn speakers](https://sabun123.github.io/jlpt-n5-kana/) 📖🇯🇵
+- [JLPT N5 Kanji learning for English speakers](https://sabun123.github.io/jlpt-n5-kanji/) 📖🇯🇵
+- [JLPT N5 Vocabulary learning for En/My/Vn/Zh/Ja/Ar speakers](https://sabun123.github.io/jlpt-n5-words/) 📖🇯🇵
 - [ALPT 1 Arabic learning for English speakers](https://sabun123.github.io/alpt-1-arabic/) 📖🇸🇦
 - [HSK 1 Mandarin learning for English speakers](https://sabun123.github.io/hsk-1-mandarin/) 📖🇨🇳
 - [CEFR A1 English learning for Malay, Vietnamese, Mandarin, and Japanese speakers](https://sabun123.github.io/cefr-a1-english/) 📖🇲🇾🇻🇳🇨🇳🇯🇵
+
 
 ### My socials:
 
